@@ -3,7 +3,7 @@
 ### About Me 
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width=100/>
 
-I am a Computer Engineering student with a passion for problem solving and learning new technologies. Graduating December 2022!
+I am a Computer Engineering student with a passion for problem solving and learning new technologies. Graduating December 2021!
 
 <img src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611e45847152ea1ae77a635140018135f53cb181d5e&rid=giphy.gif&ct=g" />
 

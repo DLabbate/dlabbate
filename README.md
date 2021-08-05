@@ -1,5 +1,7 @@
 ## Hi there, I'm Domenic 👋
 
+<img src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611e45847152ea1ae77a635140018135f53cb181d5e&rid=giphy.gif&ct=g" />
+
 ![Domenic's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlabbate&show_icons=true)
 
 <!--
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

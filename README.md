@@ -1,4 +1,4 @@
-## Hi there, I'm Domenic 👋
+## Hi there, I'm Domenic <img src="https://media.tenor.com/images/45eacfe032ce44bd49ab05d99b4bae86/tenor.gif" width=50/>
 
 <img src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611e45847152ea1ae77a635140018135f53cb181d5e&rid=giphy.gif&ct=g" />
 

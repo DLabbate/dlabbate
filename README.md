@@ -5,7 +5,7 @@
 
 🎓 I am a Computer Engineering student graduating soon! (December 2021)
 
-💡 I have a passion for problem solving and learning new technologies. 
+🧠 I have a passion for problem solving and learning new technologies. 
 
 🏆 [Featured as one of Concordia University's top performing students!](https://www.concordia.ca/content/shared/en/profiles/ginacody/domenic-labbate.html)
 

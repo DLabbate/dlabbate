@@ -6,7 +6,7 @@
 
 👨 [Personal Website](https://www.domeniclabbate.com/)
 
-🎓 I am a Computer Engineering student graduate (December 2021)
+🎓 I am a Computer Engineering graduate (December 2021)
 
 🧠 I have a passion for problem solving and learning new technologies. 
 

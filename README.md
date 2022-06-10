@@ -1,8 +1,8 @@
-## Hi there, I'm Domenic <img src="https://media.tenor.com/images/45eacfe032ce44bd49ab05d99b4bae86/tenor.gif" width=50/>
+## Hi there, I'm Domenic <img src="https://media.tenor.com/images/45eacfe032ce44bd49ab05d99b4bae86/tenor.gif" width="50"/>
 
 ### About Me 
 
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width=100/>
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
 
 👨 [Personal Website](https://www.domeniclabbate.com/)
 
@@ -12,7 +12,7 @@
 
 🏆 [Featured as one of Concordia University's top performing students!](https://www.concordia.ca/content/shared/en/profiles/ginacody/domenic-labbate.html)
 
-<img src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611e45847152ea1ae77a635140018135f53cb181d5e&rid=giphy.gif&ct=g" />
+<img src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611e45847152ea1ae77a635140018135f53cb181d5e&rid=giphy.gif&ct=g"/>
 
 ![Domenic's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlabbate&show_icons=true)
 
